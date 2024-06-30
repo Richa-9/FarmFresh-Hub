@@ -2,7 +2,7 @@
 
 A Grocery Supply Chain Management (SCM) system to optimize inventory and automate manual processes. Designed for grocery retailers, it streamlines stock management, logistics, and supplier coordination. By reducing errors and improving efficiency, the system is adaptable for various grocery businesses, from large chains to small stores. The goal is to cut costs and ensure products are readily available.
 
-## Technology Stack
+## ⛏️Technology Stack
 * MongoDB - For Database Management
 * ExpressJS - For utilizing RESTfull APIs
 * ReactJS - For frontend development
@@ -11,7 +11,7 @@ A Grocery Supply Chain Management (SCM) system to optimize inventory and automat
 * Version Control - Git
 * IDE - Visual Studio Code
 
-## Features Implemented
+## 🚀Features Implemented
 - [x] Login / Signup Functionality 
 - [x] Google Login
 - [x] Categories for Products
@@ -21,7 +21,7 @@ A Grocery Supply Chain Management (SCM) system to optimize inventory and automat
 - [x] Order History
 - [x] Payment Gateway
 
-## Installation
+## ⚙️Installation
 To get started with the application, follow these steps:
 
 1. Download the zip or Clone the repository on your local machine.
@@ -44,7 +44,7 @@ npm start
 ```
 5. Open your browser and go to http://localhost:3000 to view the application.
 
-## Contributors
+## 🙌Contributors
 - Richa Raikwar
 - Riya Kedia
 - Shreya Shrivastava
