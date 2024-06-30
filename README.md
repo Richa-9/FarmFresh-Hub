@@ -12,12 +12,13 @@ A Grocery Supply Chain Management (SCM) system to optimize inventory and automat
 * IDE - Visual Studio Code
 
 ## Features Implemented
-- Login / Signup Functionality 
-- Google Login
-- Categories for Products
-- Search Option
-- Cart
-- Password Security
+- [x] Login / Signup Functionality 
+- [x] Google Login
+- [x] Categories for Products
+- [x] Search Option
+- [x] Cart
+- [x] Password Security
+- [x] Payment Gateway
 
 ## Installation
 To get started with the application, follow these steps:
