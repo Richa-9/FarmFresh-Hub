@@ -1,4 +1,5 @@
 #FarmFresh-Hub
+
 A Grocery Supply Chain Management (SCM) system to optimize inventory and automate manual processes. Designed for grocery retailers, it streamlines stock management, logistics, and supplier coordination. By reducing errors and improving efficiency, the system is adaptable for various grocery businesses, from large chains to small stores. The goal is to cut costs and ensure products are readily available.
 
 ##Technology Stack
