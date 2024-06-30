@@ -18,6 +18,7 @@ A Grocery Supply Chain Management (SCM) system to optimize inventory and automat
 - [x] Search Option
 - [x] Cart
 - [x] Password Security
+- [x] Order History
 - [x] Payment Gateway
 
 ## Installation
